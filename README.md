@@ -4,11 +4,11 @@ Este projeto foi desenvolvido apenas para estudos do ReactJS, não tenho nenhuma
 
 **Imagem da Página Inicial**
 
-![Visão Geral do Site](https://github.com/garumam/anmtv-react/blob/master/imagens-sistema/pagina-post.png)
+![Visão Geral do Site](https://github.com/garumam/anmtv-react/blob/master/imagens-sistema/pagina-incial.png)
 
 **Imagem da Página do Post**
 
-![Visão Geral do Site](https://github.com/garumam/anmtv-react/blob/master/imagens-sistema/pagina-incial.png)
+![Visão Geral do Site](https://github.com/garumam/anmtv-react/blob/master/imagens-sistema/pagina-post.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
