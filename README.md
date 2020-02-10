@@ -1,3 +1,15 @@
+## Copiando o Layout do Site <a href="http://anmtv.xpg.com.br/">AnmTv</a> Utilizando Reactjs
+
+Este projeto foi desenvolvido apenas para estudos do ReactJS, não tenho nenhuma ligação com os autores do site oficial.
+
+**Imagem da Página Inicial**
+
+![Visão Geral do Site](https://github.com/garumam/anmtv-react/blob/master/imagens-sistema/pagina-post.png)
+
+**Imagem da Página do Post**
+
+![Visão Geral do Site](https://github.com/garumam/anmtv-react/blob/master/imagens-sistema/pagina-incial.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
