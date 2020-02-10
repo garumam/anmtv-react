@@ -1,6 +1,7 @@
 ## Copiando o Layout do Site <a href="http://anmtv.xpg.com.br/">AnmTv</a> Utilizando Reactjs
 
 Este projeto foi desenvolvido apenas para estudos do ReactJS, não tenho nenhuma ligação com os autores do site oficial.
+Para testá-lo é necessário utilizar o projeto de scraping que pode ser encontrado <a href="https://github.com/garumam/anmtv-scraping">clicando aqui</a>.
 
 **Imagem da Página Inicial**
 
